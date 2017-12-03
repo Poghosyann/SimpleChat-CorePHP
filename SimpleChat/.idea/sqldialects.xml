@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="mock:///Chat.php" dialect="MySQL" />
+    <file url="mock:///Chat.php" dialect="MySQL" />
+    <file url="mock:///Chat.php" dialect="MySQL" />
+    <file url="mock:///Chat.php" dialect="MySQL" />
+    <file url="mock:///Chat.php" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/core/classes/Chat.php" dialect="SQLite" />
+  </component>
+</project>
